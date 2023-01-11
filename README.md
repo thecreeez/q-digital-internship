@@ -4,5 +4,5 @@
 
 # GIT. Задача 2
 - Ссылка на репозиторий:
-- - [Ссылка на скриншот в директории этого же репозитория](repo/blob/main/git-2/1.png).
-- - [Ссылка на скриншот в директории этого же репозитория](repo/blob/main/git-2/2.png).
+- - [Ссылка на скриншот в директории этого же репозитория](https://github.com/thecreeez/q-digital-internship/blob/main/git-2/1.png).
+- - [Ссылка на скриншот в директории этого же репозитория](https://github.com/thecreeez/q-digital-internship/blob/main/git-2/2.png).
