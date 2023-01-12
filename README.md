@@ -15,3 +15,8 @@
 # MYSQL. Задача 4
 - Ссылка на репозиторий:
 - - [Ссылка на скриншот в директории этого же репозитория](https://github.com/thecreeez/q-digital-internship/blob/main/sql-4/1.png).
+
+# PHP. Задача 5
+- Ссылки:
+- - [Анкета](https://www.sololearn.com/profile/28034448).
+- - [Сертификат](https://www.sololearn.com/certificates/CT-ECOTDQ3I).
