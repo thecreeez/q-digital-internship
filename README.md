@@ -20,3 +20,7 @@
 - Ссылки:
 - - [Анкета](https://www.sololearn.com/profile/28034448).
 - - [Сертификат](https://www.sololearn.com/certificates/CT-ECOTDQ3I).
+
+# PHP. Задача 6
+- Ссылка на репозиторий:
+- - [Ссылка на репозиторий](https://github.com/thecreeez/q-digital-6)
