@@ -28,3 +28,7 @@
 # PHP. Задача 7
 - Ссылка на репозиторий:
 - - [Ссылка на репозиторий](https://github.com/thecreeez/q-digital-7)
+
+# PHP. Задача 8
+- Ссылка на репозиторий:
+- - [Ссылка на репозиторий](https://github.com/thecreeez/q-digital-8)
